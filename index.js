@@ -25,7 +25,7 @@ function dec(a){
 }
 
 
-function makeInt(n,a){
+function makeInt(n){
   if (a.toString=a){
     return a
   }
