@@ -29,6 +29,7 @@ function makeInt(n){
   if (n.toString()===n){
     return parseInt(n,10)
   }
+}
 
 
 
